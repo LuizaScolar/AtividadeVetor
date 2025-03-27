@@ -108,6 +108,7 @@
             this.btnPróximo.TabIndex = 8;
             this.btnPróximo.Text = "PRÓXIMO";
             this.btnPróximo.UseVisualStyleBackColor = true;
+            this.btnPróximo.Click += new System.EventHandler(this.btnPróximo_Click);
             // 
             // frmEx2
             // 

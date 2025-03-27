@@ -12,6 +12,8 @@ namespace AtividadeVetor
 {
     public partial class frmEx2 : Form
     {
+        int[] vetornotas = new int[30];
+        int i, soma = 0, nota, media;
         public frmEx2()
         {
             InitializeComponent();
@@ -19,17 +21,7 @@ namespace AtividadeVetor
 
         private void btnCalcular_Click(object sender, EventArgs e)
         {
-            double soma = 0, media;
-            double[] vetornotas = new double[30];
-            int i;
-
-            for (i = 0; i < 30; i++)
-            {
-                vetornotas[i] = Convert.ToDouble(txtNota.Text);
-            }
-
             media = soma / 30;
-
             txtMedia.Text = media.ToString();
 
         }
@@ -43,6 +35,7 @@ namespace AtividadeVetor
 
         private void btnLimpar_Click(object sender, EventArgs e)
         {
+            soma = 0;
             txtMedia.Clear();
             txtNota.Clear();
         }
@@ -53,7 +46,20 @@ namespace AtividadeVetor
             
             
             }
+
+        private void btnPróximo_Click(object sender, EventArgs e)
+        {
+            for (i = 0; i < 30; i++)
+            {
+                nota = Convert.ToInt32(txtNota.Text);
+                vetornotas[i] = nota;
+                soma = soma + vetornotas[i];
+                txtNota.Clear();
+                txtNota.Focus();
+                break;
+            }
         }
+    }
 
     }
 
