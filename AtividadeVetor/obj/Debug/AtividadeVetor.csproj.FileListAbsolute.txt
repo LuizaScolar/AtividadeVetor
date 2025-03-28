@@ -21,3 +21,15 @@ C:\Users\scola\OneDrive\Área de Trabalho\DS\AtividadeVetor\AtividadeVetor\obj\D
 C:\Users\scola\OneDrive\Área de Trabalho\DS\AtividadeVetor\AtividadeVetor\obj\Debug\AtividadeVetor.exe
 C:\Users\scola\OneDrive\Área de Trabalho\DS\AtividadeVetor\AtividadeVetor\obj\Debug\AtividadeVetor.pdb
 C:\Users\scola\OneDrive\Área de Trabalho\DS\AtividadeVetor\AtividadeVetor\obj\Debug\AtividadeVetor.frmEx2.resources
+\\192.168.1.254\dados\2A-DS-PI\Luiza e Lavinia\AtividadeVetor\AtividadeVetor\bin\Debug\AtividadeVetor.exe.config
+\\192.168.1.254\dados\2A-DS-PI\Luiza e Lavinia\AtividadeVetor\AtividadeVetor\bin\Debug\AtividadeVetor.exe
+\\192.168.1.254\dados\2A-DS-PI\Luiza e Lavinia\AtividadeVetor\AtividadeVetor\bin\Debug\AtividadeVetor.pdb
+\\192.168.1.254\dados\2A-DS-PI\Luiza e Lavinia\AtividadeVetor\AtividadeVetor\obj\Debug\AtividadeVetor.csproj.AssemblyReference.cache
+\\192.168.1.254\dados\2A-DS-PI\Luiza e Lavinia\AtividadeVetor\AtividadeVetor\obj\Debug\AtividadeVetor.frmMenu.resources
+\\192.168.1.254\dados\2A-DS-PI\Luiza e Lavinia\AtividadeVetor\AtividadeVetor\obj\Debug\AtividadeVetor.frmEx1.resources
+\\192.168.1.254\dados\2A-DS-PI\Luiza e Lavinia\AtividadeVetor\AtividadeVetor\obj\Debug\AtividadeVetor.frmEx2.resources
+\\192.168.1.254\dados\2A-DS-PI\Luiza e Lavinia\AtividadeVetor\AtividadeVetor\obj\Debug\AtividadeVetor.Properties.Resources.resources
+\\192.168.1.254\dados\2A-DS-PI\Luiza e Lavinia\AtividadeVetor\AtividadeVetor\obj\Debug\AtividadeVetor.csproj.GenerateResource.cache
+\\192.168.1.254\dados\2A-DS-PI\Luiza e Lavinia\AtividadeVetor\AtividadeVetor\obj\Debug\AtividadeVetor.csproj.CoreCompileInputs.cache
+\\192.168.1.254\dados\2A-DS-PI\Luiza e Lavinia\AtividadeVetor\AtividadeVetor\obj\Debug\AtividadeVetor.exe
+\\192.168.1.254\dados\2A-DS-PI\Luiza e Lavinia\AtividadeVetor\AtividadeVetor\obj\Debug\AtividadeVetor.pdb
